@@ -1,1 +1,1 @@
-# cxe-define
+# @cxe/define
